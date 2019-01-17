@@ -55,7 +55,7 @@
             <muleVersion>4.1.4</muleVersion>
             <username>${anypoint.username}</username>
             <password>${anypoint.password}</password>
-           
+           <applicationName>test-jenkins</applicationName>
             <environment>${anypoint.environment}</environment>
             <properties>
                 <key>value</key>
